@@ -22,7 +22,7 @@ A cloud-native email delivery system that automates personalized, large-scale le
 
 ## Live Demo
 
-[video demo link](https://link-here.com) 
+[video demo link](https://drive.google.com/drive/folders/1Hnw7jDZAr7XQ2aRq-83AOX2CdviJN0YK)
 
 
 ## Tech Highlights
