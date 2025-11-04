@@ -7,7 +7,7 @@ This repository is a public showcase of a private project. The actual source cod
 
 ## Live Demo
 
-[video demo link]([https://drive.google.com/drive/folders/1Hnw7jDZAr7XQ2aRq-83AOX2CdviJN0YK](https://www.youtube.com/watch?v=062hPy_t3XI))
+[video demo link]([https://drive.google.com/drive/folders/1Hnw7jDZAr7XQ2aRq-83AOX2CdviJN0YK])
 
 
 ## Tech Highlights
